@@ -1,0 +1,48 @@
+#interface_geral{
+	background-color: #EEE8AA;
+	position: relative;
+	margin: 0 auto;
+	height: 500px;
+}
+#corpo_texto{
+ display:block;
+ background-color: #FFDAB9;
+ padding: 15px;
+ margin: -20px auto 0px auto;
+
+}
+p{
+  text-align:justify; 
+  text-indent:50px;
+}
+ h1{
+ 	font-size: 32px;
+ 	text-align: center;
+ 	margin-top: 20px;
+ }
+ h3{
+ 	font-size: 20px;
+ 	text-align: center;
+ 	margin-bottom: 30px;
+ }
+
+#rodape{
+	height: 120px;
+	background-color: #D8BFD8;
+	text-align: center;
+}
+#rodape p{
+	margin-left: 560px;
+}
+
+#logo1{
+    width:67px;
+}
+#logo2{
+    width:50px;
+}
+#logo3{
+    width:50px;
+}
+
+
